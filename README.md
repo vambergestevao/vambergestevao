@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Vamberg Estevão
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-vambergestevao/vambergestevao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou Vamberg Estevão
+- 👀 Estou muito interessado no Mundo da Tecnologia
+- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript
+- 📫 Como chegar até mim: https://www.linkedin.com/in/vambergestevao/
+- ⚡ Aluno da Universidade Nove de Julho (UNINOVE) - Análise e Desenvolvimento de Sistemas
+---
+- 👋 Helo, I’m Vamberg Estevão
+- 👀 I’m very interested in the Wold of Technology
+- 🌱 I’m currently learning HTML5, CSS3 e JavaScript
+- 📫 How to reach me: https://www.linkedin.com/in/vambergestevao/
+- ⚡ Student at Nove de Julho University (UNINOVE) - Systems Analysis and Development
