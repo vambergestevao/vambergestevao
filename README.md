@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Vamberg Estevão
-- 👀 Estou muito interessado no Mundo da Tecnologia
+- 👀 Eu sou muito interessado no Mundo da Tecnologia
 - 🌱 Atualmente estou aprendendo HTML5 | CSS3 | JS
 - 📫 Como chegar até mim: https://www.linkedin.com/in/vambergestevao/
 - ⚡ Aluno da Universidade Nove de Julho (UNINOVE) - Análise e Desenvolvimento de Sistemas
