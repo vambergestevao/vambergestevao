@@ -1,11 +1,9 @@
 - 👋 Olá, eu sou Vamberg Estevão
-- 👀 Eu sou muito interessado no Mundo da Tecnologia
-- 🌱 Atualmente estou estudando REDES | SEGURANÇA DA INFORMAÇÃO | PYTHON
-- 📫 Como chegar até mim: https://www.linkedin.com/in/vambergestevao/
-- ⚡ Aluno da Universidade Nove de Julho (UNINOVE) - Análise e Desenvolvimento de Sistemas
+- 👀 Aluno da Universidade Nove de Julho (UNINOVE) - Análise e Desenvolvimento de Sistemas
+- 📫 Atualmente estou estudando REDES | SEGURANÇA DA INFORMAÇÃO | PYTHON
+- ⚡ Como chegar até mim: https://www.linkedin.com/in/vambergestevao/
 ---
 - 👋 Helo, I’m Vamberg Estevão
-- 👀 I’m very interested in the Wold of Technology
-- 🌱 I’m currently studying NETWORKS | INFORMATION SECURITY | PYTHON
-- 📫 How to reach me: https://www.linkedin.com/in/vambergestevao/
-- ⚡ Student at Nove de Julho University (UNINOVE) - Systems Analysis and Development
+- 👀 Student at Nove de Julho University (UNINOVE) - Systems Analysis and Development
+- 📫 I’m currently studying NETWORKS | INFORMATION SECURITY | PYTHON
+- ⚡ How to reach me: https://www.linkedin.com/in/vambergestevao/
